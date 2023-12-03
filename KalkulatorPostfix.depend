@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1701519464 source:c:\users\krisn\onedrive\documents\belajar c++\kalkulatorpostfix\main.cpp
+	<iostream>
+	<stack>
+	<cmath>
+	<cctype>
+	<cstdlib>
+
